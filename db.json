@@ -29,26 +29,6 @@
       "created_at": "2019-10-11T10:10:10",
       "photo": null,
       "password": "teste@1234"
-    },
-    {
-      "id": 4,
-      "name": "Patricia Lebsack",
-      "username": "Karianne",
-      "email": "Julianne.OConner@kory.org",
-      "typeUser": 2,
-      "created_at": "2019-10-11T10:10:10",
-      "photo": null,
-      "password": "teste@1234"
-    },
-    {
-      "id": 5,
-      "name": "Chelsey Dietrich",
-      "username": "Kamren",
-      "email": "Lucio_Hettinger@annie.ca",
-      "typeUser": 2,
-      "created_at": "2019-10-11T10:10:10",
-      "photo": null,
-      "password": "teste@1234"
     }
   ],
   "typeUsers": [
@@ -99,7 +79,7 @@
       "image": "https://fotospublicas.com/wp-content/uploads/2023/06/52974918353_a7e93b265a_k.jpg"
     },
     {
-      "userId": 3,
+      "userId": 1,
       "id": 21,
       "title": "asperiores ea ipsam voluptatibus modi minima quia sint",
       "body": "repellat aliquid praesentium dolorem quo\nsed totam minus non itaque\nnihil labore molestiae sunt dolor eveniet hic recusandae veniam\ntempora et tenetur expedita sunt",
@@ -108,7 +88,7 @@
       "image": "https://img.freepik.com/fotos-gratis/liquidacao-de-cartao-de-credito-pos-em-vez-de-compra-de-liquidacao-em-dinheiro_1359-1162.jpg?w=1380&t=st=1690689787~exp=1690690387~hmac=2bc1e9933c3ee011f1c9a676611f82515d01ce9439eb65c00e57d1d3ea04904c"
     },
     {
-      "userId": 3,
+      "userId": 1,
       "id": 22,
       "title": "dolor sint quo a velit explicabo quia nam",
       "body": "eos qui et ipsum ipsam suscipit aut\nsed omnis non odio\nexpedita earum mollitia molestiae aut atque rem suscipit\nnam impedit esse",
@@ -117,7 +97,7 @@
       "image": "https://fotospublicas.com/wp-content/uploads/2023/05/52887134031_787ea27a36_k.jpg"
     },
     {
-      "userId": 3,
+      "userId": 1,
       "id": 23,
       "title": "maxime id vitae nihil numquam",
       "body": "veritatis unde neque eligendi\nquae quod architecto quo neque vitae\nest illo sit tempora doloremque fugit quod\net et vel beatae sequi ullam sed tenetur perspiciatis",
@@ -126,7 +106,7 @@
       "image": "https://fotospublicas.com/wp-content/uploads/2023/03/52784044010_f2bda06033_k.jpg"
     },
     {
-      "userId": 3,
+      "userId": 1,
       "id": 24,
       "title": "autem hic labore sunt dolores incidunt",
       "body": "enim et ex nulla\nomnis voluptas quia qui\nvoluptatem consequatur numquam aliquam sunt\ntotam recusandae id dignissimos aut sed asperiores deserunt",
@@ -135,7 +115,7 @@
       "image": "https://fotospublicas.com/wp-content/uploads/2023/03/52747482346_8d05823669_h.jpg"
     },
     {
-      "userId": 3,
+      "userId": 1,
       "id": 25,
       "title": "rem alias distinctio quo quis",
       "body": "ullam consequatur ut\nomnis quis sit vel consequuntur\nipsa eligendi ipsum molestiae et omnis error nostrum\nmolestiae illo tempore quia et distinctio",
@@ -144,7 +124,7 @@
       "image": null
     },
     {
-      "userId": 4,
+      "userId": 1,
       "id": 35,
       "title": "id nihil consequatur molestias animi provident",
       "body": "nisi error delectus possimus ut eligendi vitae\nplaceat eos harum cupiditate facilis reprehenderit voluptatem beatae\nmodi ducimus quo illum voluptas eligendi\net nobis quia fugit",
@@ -153,7 +133,7 @@
       "image": null
     },
     {
-      "userId": 4,
+      "userId": 1,
       "id": 36,
       "title": "fuga nam accusamus voluptas reiciendis itaque",
       "body": "ad mollitia et omnis minus architecto odit\nvoluptas doloremque maxime aut non ipsa qui alias veniam\nblanditiis culpa aut quia nihil cumque facere et occaecati\nqui aspernatur quia eaque ut aperiam inventore",
@@ -162,7 +142,7 @@
       "image": null
     },
     {
-      "userId": 5,
+      "userId": 1,
       "id": 46,
       "title": "aut quo modi neque nostrum ducimus",
       "body": "voluptatem quisquam iste\nvoluptatibus natus officiis facilis dolorem\nquis quas ipsam\nvel et voluptatum in aliquid",
@@ -201,7 +181,7 @@
     {
       "postId": 1,
       "id": 1,
-      "userId": 7,
+      "userId": 1,
       "body": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium",
       "date": "2019-10-11T10:10:10",
       "parent_id": null
@@ -209,7 +189,7 @@
     {
       "postId": 1,
       "id": 2,
-      "userId": 8,
+      "userId": 2,
       "body": "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et",
       "date": "2019-10-11T15:10:10",
       "parent_id": 1
@@ -225,7 +205,7 @@
     {
       "postId": 1,
       "id": 5,
-      "userId": 5,
+      "userId": 1,
       "body": "harum non quasi et ratione\ntempore iure ex voluptates in ratione\nharum architecto fugit inventore cupiditate\nvoluptates magni quo et",
       "date": "2019-10-11T22:10:10",
       "parent_id": 2
@@ -233,7 +213,7 @@
     {
       "postId": 2,
       "id": 6,
-      "userId": 4,
+      "userId": 2,
       "body": "doloribus at sed quis culpa deserunt consectetur qui praesentium\naccusamus fugiat dicta\nvoluptatem rerum ut voluptate autem\nvoluptatem repellendus aspernatur dolorem in",
       "date": "2019-10-12T10:10:10",
       "parent_id": 2
@@ -241,7 +221,7 @@
     {
       "postId": 3,
       "id": 23,
-      "userId": 6,
+      "userId": 3,
       "body": "voluptates provident repellendus iusto perspiciatis ex fugiat ut\nut dolor nam aliquid et expedita voluptate\nsunt vitae illo rerum in quos\nvel eligendi enim quae fugiat est",
       "date": "2019-10-13T03:10:10",
       "parent_id": null
@@ -249,7 +229,7 @@
     {
       "postId": 7,
       "id": 30,
-      "userId": 7,
+      "userId": 1,
       "body": "consequuntur quia voluptate assumenda et\nautem voluptatem reiciendis ipsum animi est provident\nearum aperiam sapiente ad vitae iste\naccusantium aperiam eius qui dolore voluptatem et",
       "date": "2019-10-14T10:10:10",
       "parent_id": null
@@ -257,7 +237,7 @@
     {
       "postId": 7,
       "id": 31,
-      "userId": 4,
+      "userId": 2,
       "body": "quia incidunt ut\naliquid est ut rerum deleniti iure est\nipsum quia ea sint et\nvoluptatem quaerat eaque repudiandae eveniet aut",
       "date": "2019-10-14T11:10:10",
       "parent_id": null
